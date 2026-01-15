@@ -179,7 +179,7 @@ mkdir -p .cursor/commands
 
 2. **Create the file:**
 
-[./commands/generate-rules](.cursor/commands/generate-rules.md)
+[https://github.com/mathieugeissler/awesome-ai/blob/main/cursor/commands/generate-rules.md](.cursor/commands/generate-rules.md)
 
 Cursor automatically loads commands from `.cursor/commands/*.md` and makes them available as slash commands in the chat input.
 
